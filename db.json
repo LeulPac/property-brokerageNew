@@ -1,0 +1,378 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "title": "home",
+      "description": "the best house for you and your family",
+      "price": "8000",
+      "images": [
+        "1755606073960-774313951.jpg",
+        "1755606073961-137838307.jpg",
+        "1755606073965-228559718.jpg",
+        "1755606073968-600396455.jpg"
+      ],
+      "image": "1755606073960-774313951.jpg",
+      "bedrooms": "3",
+      "location": "mekelle, 05",
+      "city": "Mekelle",
+      "type": "house",
+      "status": "rented",
+      "amenities": {
+        "electricity": true,
+        "water": true,
+        "parking": false,
+        "internet": false,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251908773742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 2,
+      "title": "apartment ",
+      "description": "nice apartment ",
+      "price": "70000",
+      "images": [
+        "1755606179855-814198428.jpg",
+        "1755606179857-889619191.jpg",
+        "1755606179858-838582742.jpg",
+        "1755606179858-246700530.jpg"
+      ],
+      "image": "1755606179855-814198428.jpg",
+      "bedrooms": "6",
+      "location": "mekelle, adihawsi",
+      "city": "Mekelle",
+      "type": "apartment",
+      "status": "available",
+      "amenities": {
+        "electricity": true,
+        "water": true,
+        "parking": true,
+        "internet": true,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": true
+      },
+      "floor": 7,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251959333742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Club",
+      "description": "best house for night clubs",
+      "price": "60000",
+      "images": [
+        "1755607673278-612391353.jpg",
+        "1755607673282-52617256.jpg",
+        "1755607673284-824271948.jpg"
+      ],
+      "image": "1755607673278-612391353.jpg",
+      "bedrooms": "3",
+      "location": "mekelle, 16 kebele",
+      "city": "Mekelle",
+      "type": "company",
+      "status": "available",
+      "amenities": {
+        "electricity": true,
+        "water": true,
+        "parking": true,
+        "internet": true,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251990333742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 4,
+      "title": "home",
+      "description": "hhh",
+      "price": "80000",
+      "images": [
+        "1755608403518-306318946.jpg",
+        "1755608403518-569139844.jpg",
+        "1755608403525-688265733.jpg",
+        "1755608403528-124799996.jpg"
+      ],
+      "image": "1755608403518-306318946.jpg",
+      "bedrooms": "3",
+      "location": "mekelle, 16 kebele",
+      "city": "Mekelle",
+      "type": "house",
+      "status": "available",
+      "amenities": {
+        "electricity": true,
+        "water": true,
+        "parking": true,
+        "internet": true,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251900333742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 5,
+      "title": "home",
+      "description": "nnn",
+      "price": "666",
+      "images": [
+        "1755609112429-900087391.jpg",
+        "1755609112430-77274074.jpg",
+        "1755609112440-670490070.jpg"
+      ],
+      "image": "1755609112429-900087391.jpg",
+      "bedrooms": "5",
+      "location": "05",
+      "city": "Adigrat",
+      "type": "house",
+      "status": "available",
+      "amenities": {
+        "electricity": false,
+        "water": true,
+        "parking": false,
+        "internet": false,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251950333742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 6,
+      "title": "house",
+      "description": "best",
+      "price": "8000",
+      "images": [
+        "1755609476333-143581344.jpg",
+        "1755609476334-72613074.jpg",
+        "1755609476336-883042792.jpg"
+      ],
+      "image": "1755609476333-143581344.jpg",
+      "bedrooms": "4",
+      "location": "05",
+      "city": "Adigrat",
+      "type": "house",
+      "status": "available",
+      "amenities": {
+        "electricity": true,
+        "water": true,
+        "parking": false,
+        "internet": true,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251960333742",
+        "status": "online"
+      }
+    },
+    {
+      "id": 7,
+      "title": "home",
+      "description": "the jjljaghla",
+      "price": "20000000",
+      "images": [
+        "1760082356654-995307289.jpg"
+      ],
+      "image": "1760082356654-995307289.jpg",
+      "bedrooms": "3",
+      "location": null,
+      "city": "Mekelle",
+      "type": "house",
+      "status": "available",
+      "amenities": {
+        "electricity": false,
+        "water": true,
+        "parking": false,
+        "internet": false,
+        "furnished": false,
+        "airConditioning": false,
+        "balcony": false,
+        "petFriendly": false,
+        "generator": false,
+        "security": false,
+        "lift": false
+      },
+      "floor": null,
+      "admin": {
+        "name": "leul mengesha",
+        "email": "luel2905@gmail.com",
+        "phone": "+251950333742",
+        "status": "online"
+      }
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1753115749275,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "mmm",
+      "date": "2025-07-21T16:35:49.275Z",
+      "status": "read"
+    },
+    {
+      "id": 1753107872838,
+      "name": "leul",
+      "email": "luel2905@gmail.com",
+      "message": "mmmm",
+      "date": "2025-07-21T14:24:32.838Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753107112742,
+      "name": "leul",
+      "email": "luel2905@gmail.com",
+      "message": "m",
+      "date": "2025-07-21T14:11:52.742Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753106945573,
+      "name": "leul",
+      "email": "abelmamo179@gmail.com",
+      "message": "vv",
+      "date": "2025-07-21T14:09:05.573Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753106562614,
+      "name": "sofa",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "bbb",
+      "date": "2025-07-21T14:02:42.614Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753106548063,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "bb",
+      "date": "2025-07-21T14:02:28.063Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753106391770,
+      "name": "leul",
+      "email": "luel2905@gmail.com",
+      "message": "bb",
+      "date": "2025-07-21T13:59:51.770Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753106304294,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "best\n",
+      "date": "2025-07-21T13:58:24.294Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753105455817,
+      "name": "leul",
+      "email": "luel2905@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T13:44:15.817Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753104837073,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T13:33:57.073Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753103658525,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T13:14:18.525Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753103077670,
+      "name": "leul",
+      "email": "abelmamo179@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T13:04:37.670Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753102720519,
+      "name": "leul",
+      "email": "luel2905@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T12:58:40.519Z",
+      "status": "unread"
+    },
+    {
+      "id": 1753102329327,
+      "name": "leul",
+      "email": "filmonamaniel0@gmail.com",
+      "message": "best",
+      "date": "2025-07-21T12:52:09.327Z",
+      "status": "unread"
+    }
+  ]
+}
